@@ -1,0 +1,10 @@
+Activities for GRAM
+
+- Build the conversation algorithm
+- Create topic banks
+- Build the default profile for GRAM
+- Build one user profile for GRAM
+- Make the program GUI
+- Demo GRAM
+- Participate in the Turing Test
+- Host on GitHub
